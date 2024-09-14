@@ -1,4 +1,4 @@
-![Employee Agent](https://github.com/user-attachments/assets/a946cc66-f7d0-4886-9495-0e2e0ddc8659)
+![Hiring Agent](https://github.com/user-attachments/assets/6b6a08d5-c815-46ca-89af-f655e4e39bbc)
 
 > Measure and qualify employees for hiring.
 
